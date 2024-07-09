@@ -14,6 +14,7 @@ void main() async{
     WindowManager.instance.setTitle('Double Helix Detective System');
     WindowManager.instance.setMinimumSize(const Size(1200, 700));
   }
+
   runApp(MyApp());
 }
 
